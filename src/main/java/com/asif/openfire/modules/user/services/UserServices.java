@@ -1,4 +1,4 @@
-package com.mlbd.openfire.modules.user.services;
+package com.asif.openfire.modules.user.services;
 
 import com.mlbd.openfire.modules.user.UserDTO;
 import lombok.RequiredArgsConstructor;
